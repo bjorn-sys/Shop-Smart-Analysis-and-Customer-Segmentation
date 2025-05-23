@@ -1,0 +1,1 @@
+# Shop-Smart-Analysis-and-Customer-Segmentation
