@@ -1,4 +1,16 @@
 # Shop-Smart-Analysis-and-Customer-Segmentation
+#   Libraries
+-- Pandas
+-- Numpy
+-- Matplotlib
+-- Seaborn
+-- Sklearn
+-- KMeans
+
+
+
+
+
 INSIGHTS
 UNIFORM DISTRIBUTION OF ENGAGEMENT
 
