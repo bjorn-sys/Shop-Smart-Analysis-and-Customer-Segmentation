@@ -13,7 +13,7 @@
 * KMeans
 
 
-
+use (*) for bullet point
 
 
 
