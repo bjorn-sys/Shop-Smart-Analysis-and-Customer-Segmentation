@@ -12,7 +12,7 @@
   
 * KMeans
   
-click here [link](www.facebook.com).
+click here [link](www.github.com).
 
 use (*) for bullet point
 
