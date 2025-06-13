@@ -1,6 +1,6 @@
 # Shop-Smart-Analysis-and-Customer-Segmentation
 #   Libraries
--- Pandas
+* -- Pandas
 -- Numpy
 -- Matplotlib
 -- Seaborn
